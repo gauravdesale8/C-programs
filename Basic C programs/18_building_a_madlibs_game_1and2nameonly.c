@@ -16,6 +16,6 @@ int main()
 	
 	printf("Roses are %s.\n",color);
 	printf("Blue are %s.\n",pluralNoun);
-	printf("I love %s%s.\n",celebrityL,celebrityF);
+	printf("I love %s %s.\n",celebrityL,celebrityF);
 	return 0;
 }	
