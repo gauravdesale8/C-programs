@@ -8,6 +8,7 @@ int main()
 	return 0;
 }
 
-void sayHi(char name[]){
+void sayHi(char name[])
+{
 	printf("Hello %s",name);
 }
